@@ -16,6 +16,11 @@
 <img src="https://img.shields.io/badge/Reddit-pink?style=flat&logo=reddit">
 </a>
 
+<a href="https://mmoiyadi.github.io/react-project">
+<img src="https://img.shields.io/badge/Website-brightgreen?style=flat&logo=google-chrome&logoColor=darkgreen">
+</a>
+
+
 Thanks for visiting this page. 
 
 I am an Application Architect and also an occassional tech blogger. I work at [Talentica Software](https://www.talentica.com/)
