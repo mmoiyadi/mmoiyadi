@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/Reddit-pink?style=flat&logo=reddit">
 </a>
 
+Thanks for visiting this page. 
+
 I am an Application Architect and also an occassional tech blogger. I work at [Talentica Software](https://www.talentica.com/)
 - 👀 I’m interested in [.NET Core](https://github.com/dotnet/core), C++, [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), Enterprise Architecture
 - 🌱 I’m currently learning [React](https://github.com/facebook/react), [Docker](https://www.docker.com/). I also like to explore different programming languages on [Exercism](https://exercism.org/)
@@ -25,6 +27,8 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
   - [Building SaaS products with data and runtime isolation](https://www.talentica.com/blogs/develop-saas-product-with-data-run-time-isolation/)
 - 📫 You can reach me at: [mohammed.moiyadi@gmail.com](mailto:mohammed.moiyadi@gmail.com)
 
+
+ [![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
 
 
 
