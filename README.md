@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/Exercism-green?style=flat&logo=exercism">
 </a>
 
+<a href="https://www.reddit.com/user/MediocreSuggestion50">
+<img src="https://img.shields.io/badge/Reddit-pink?style=flat&logo=reddit">
+</a>
+
 <!---
 mmoiyadi/mmoiyadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
