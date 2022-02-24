@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://medium.com/@mohammed-moiyadi">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=medium">
+<img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium">
 </a>
 
 <!---
