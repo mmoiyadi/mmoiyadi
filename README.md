@@ -1,4 +1,4 @@
-# Hi there, I’m [Mohammed Moiyadi](https://github.com/mmoiyadi) 👋
+## Hi there, I’m [Mohammed Moiyadi](https://github.com/mmoiyadi) 👋
 
 <a href="https://www.linkedin.com/in/mmoiyadi/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
@@ -21,7 +21,7 @@
 </a>
 
 
-Thanks for visiting this page. 
+#### Thanks for visiting this page. 
 
 I am an Application Architect and also an occassional tech blogger. I work at [Talentica Software](https://www.talentica.com/)
 - 👀 I’m interested in [.NET Core](https://github.com/dotnet/core), C++, [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), Enterprise Architecture
