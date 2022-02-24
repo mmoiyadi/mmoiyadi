@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium">
 </a>
 
+<a href="https://exercism.org/profiles/mmoiyadi">
+<img src="https://img.shields.io/badge/Exercism-green?style=flat&logo=exercism">
+</a>
+
 <!---
 mmoiyadi/mmoiyadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
