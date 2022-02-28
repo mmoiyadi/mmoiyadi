@@ -30,6 +30,7 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
   - Dockerize .NET Applications: [Part 1](https://www.talentica.com/blogs/dockerize-net-applications-part1/), [Part 2](https://www.talentica.com/blogs/dockerize-net-applications-part2/), [Part 3](https://www.talentica.com/blogs/dockerize-net-applications-part3/)
   - Options pattern in .NET Core: [Part 1](https://www.talentica.com/blogs/typed-configurations-in-net-core/) and [Part 2](https://www.talentica.com/blogs/change-notifications-and-named-options-using-options-pattern-in-net-core/)
   - [Building SaaS products with data and runtime isolation](https://www.talentica.com/blogs/develop-saas-product-with-data-run-time-isolation/)
+  - [Using using to dispose objects in .NET](https://medium.com/me/stats/post/c64bb62d7d8b)
 - 📫 You can reach me at: [mohammed.moiyadi@gmail.com](mailto:mohammed.moiyadi@gmail.com)
 
 
