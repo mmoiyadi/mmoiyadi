@@ -33,6 +33,8 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
 - 📫 You can reach me at: [mohammed.moiyadi@gmail.com](mailto:mohammed.moiyadi@gmail.com)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoiyadi)](https://github.com/mmoiyadi/github-readme-stats)
+
  [![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
 
 
