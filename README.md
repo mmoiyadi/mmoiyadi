@@ -31,6 +31,7 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
   - Options pattern in .NET Core: [Part 1](https://www.talentica.com/blogs/typed-configurations-in-net-core/) and [Part 2](https://www.talentica.com/blogs/change-notifications-and-named-options-using-options-pattern-in-net-core/)
   - [Building SaaS products with data and runtime isolation](https://www.talentica.com/blogs/develop-saas-product-with-data-run-time-isolation/)
   - [Using using to dispose objects in .NET](https://medium.com/me/stats/post/c64bb62d7d8b)
+  - [Setting up AWS ALB Application Load Balancer](https://dev.to/mmoiyadi/setting-up-aws-alb-application-load-balancer-for-a-web-application-api-1p92)
 - 📫 You can reach me at: [mohammed.moiyadi@gmail.com](mailto:mohammed.moiyadi@gmail.com)
 
 
