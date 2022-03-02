@@ -25,7 +25,7 @@
 
 I am an Application Architect and also an occassional tech blogger. I work at [Talentica Software](https://www.talentica.com/)
 - 👀 I’m interested in [.NET Core](https://github.com/dotnet/core), C++, [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), Enterprise Architecture
-- 🌱 I’m currently learning [React](https://github.com/facebook/react), [Docker](https://www.docker.com/). I also like to explore different programming languages on [Exercism](https://exercism.org/)
+- 🌱 I’m currently learning [React](https://github.com/facebook/react), [Docker](https://www.docker.com/) and [Domain Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html). I also like to explore different programming languages on [Exercism](https://exercism.org/)
 - 📝 Here are a few of my blogs
   - Dockerize .NET Applications: [Part 1](https://www.talentica.com/blogs/dockerize-net-applications-part1/), [Part 2](https://www.talentica.com/blogs/dockerize-net-applications-part2/), [Part 3](https://www.talentica.com/blogs/dockerize-net-applications-part3/)
   - Options pattern in .NET Core: [Part 1](https://www.talentica.com/blogs/typed-configurations-in-net-core/) and [Part 2](https://www.talentica.com/blogs/change-notifications-and-named-options-using-options-pattern-in-net-core/)
