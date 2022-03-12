@@ -45,7 +45,7 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
 
  [![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
 
-
+[About Me](https://about.me/mmoiyadi)
 
 
 <!---
