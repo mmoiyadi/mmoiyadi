@@ -35,6 +35,12 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
 - 📫 You can reach me at: [mohammed.moiyadi@gmail.com](mailto:mohammed.moiyadi@gmail.com)
 
 
+#### Tools and Tech Stacks I use
+<img src="https://img.shields.io/badge/-.NET%20Core-512BD4?logo=.net&style=for-the-badge"> <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual%20Studio&style=for-the-badge"> <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=Microsoft%20SQL%20Server&style=for-the-badge"> <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UmFiYml0TVE8L3RpdGxlPjxwYXRoIGQ9Ik0yMy4wMzUgOS42MDFoLTcuNjc3YS45NTYuOTU2IDAgMDEtLjk2Mi0uOTYyVi45NjJhLjk1Ni45NTYgMCAwMC0uOTYyLS45NTZIMTAuNTZhLjk1Ni45NTYgMCAwMC0uOTYyLjk1NlY4LjY0YS45NTYuOTU2IDAgMDEtLjk2Mi45NjJINS43NjJhLjk1Ni45NTYgMCAwMS0uOTYxLS45NjJWLjk2MkEuOTU2Ljk1NiAwIDAwMy44MzkgMEguOTU5YS45NTYuOTU2IDAgMDAtLjk1Ni45NjJ2MjIuMDc2QS45NTYuOTU2IDAgMDAuOTY1IDI0aDIyLjA3YS45NTYuOTU2IDAgMDAuOTYyLS45NjJWMTAuNThhLjk1Ni45NTYgMCAwMC0uOTYyLS45OHptLTMuODYgOC4xNTJhMS40MzcgMS40MzcgMCAwMS0xLjQzNyAxLjQ0M2gtMS45MjRhMS40MzcgMS40MzcgMCAwMS0xLjQzNi0xLjQ0M3YtMS45MTdhMS40MzcgMS40MzcgMCAwMTEuNDM2LTEuNDQzaDEuOTI0YTEuNDM3IDEuNDM3IDAgMDExLjQzNyAxLjQ0M3oiLz48L3N2Zz4=">
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoiyadi)](https://github.com/mmoiyadi/github-readme-stats)
 
  [![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
