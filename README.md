@@ -40,6 +40,8 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
 
 <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino">  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi">
 
+<img src="https://img.shields.io/badge/Skype-000000?style=for-the-badge&logo=skype"> <img src="https://img.shields.io/badge/Microsoft%20Teams-000000?style=for-the-badge&logo=Microsoft%20Teams">
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoiyadi)](https://github.com/mmoiyadi/github-readme-stats)
