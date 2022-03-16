@@ -32,8 +32,7 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
   - [Building SaaS products with data and runtime isolation](https://www.talentica.com/blogs/develop-saas-product-with-data-run-time-isolation/)
   - [Using using to dispose objects in .NET](https://medium.com/me/stats/post/c64bb62d7d8b)
   - [Setting up AWS ALB Application Load Balancer](https://dev.to/mmoiyadi/setting-up-aws-alb-application-load-balancer-for-a-web-application-api-1p92)
-- 📫 You can reach me at: [mohammed.moiyadi@gmail.com](mailto:mohammed.moiyadi@gmail.com)
-
+- 📫 You can reach me at: [<img src="https://img.shields.io/badge/-mohammed.moiyadi@gmail.com-EA4335?logo=gmail&style=social">](mailto:mohammed.moiyadi@gmail.com)
 
 #### Tools and Tech Stacks I use
 <img src="https://img.shields.io/badge/frameworks & libraries-grey">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&style=for-the-badge"> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white"> <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS">
