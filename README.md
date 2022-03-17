@@ -1,19 +1,19 @@
 ## Hi there, I’m [Mohammed Moiyadi](https://mmoiyadi.github.io/react-project) 👋
 
 <a href="https://www.linkedin.com/in/mmoiyadi/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin">
 </a>
 
 <a href="https://medium.com/@mohammed-moiyadi">
-<img src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium">
+<img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium">
 </a>
 
 <a href="https://exercism.org/profiles/mmoiyadi">
-<img src="https://img.shields.io/badge/Exercism-green?style=flat&logo=exercism">
+<img src="https://img.shields.io/badge/Exercism-009CAB?style=flat&logo=exercism&logoColor=white">
 </a>
 
 <a href="https://www.reddit.com/user/MediocreSuggestion50">
-<img src="https://img.shields.io/badge/Reddit-pink?style=flat&logo=reddit">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white">
 </a>
 
 <a href="https://mmoiyadi.github.io/react-project">
