@@ -27,7 +27,7 @@
 <br><br>
 #### Thanks for visiting this page. 
 
-I am an Application Architect and also an occassional tech blogger. I work at [Talentica Software](https://www.talentica.com/)
+I am an Application Architect and also an occasional tech blogger. I work at [Talentica Software](https://www.talentica.com/)
 - 👀 I’m interested in [.NET Core](https://github.com/dotnet/core), C++, [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), Enterprise Architecture
 - 🌱 I’m currently learning [React](https://github.com/facebook/react), [Docker](https://www.docker.com/) and [Domain Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html). I also like to explore different programming languages on [Exercism](https://exercism.org/)
 - 📝 Here are a few of my blogs
