@@ -69,6 +69,8 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
 
 [About Me](https://about.me/mmoiyadi)
 
+<img src="https://img.shields.io/badge/about-me-00A98F?link=https://about.me/mmoiyadi">
+
 
 <!---
 mmoiyadi/mmoiyadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
