@@ -67,9 +67,11 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
 
  [![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
 
-[About Me](https://about.me/mmoiyadi)
+<a href="https://about.me/mmoiyadi">
+<img src="https://img.shields.io/badge/about-me-00A98F">
+</a>
 
-<img src="https://img.shields.io/badge/about-me-00A98F?link=https://about.me/mmoiyadi">
+
 
 
 <!---
