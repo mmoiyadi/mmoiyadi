@@ -51,7 +51,7 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
 
 <img src="https://img.shields.io/badge/package%20manager-grey">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge"> <img src="https://img.shields.io/badge/-nuget-004880?logo=nuget&style=for-the-badge">
 
-<img src="https://img.shields.io/badge/api%20tools-grey"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
+![api tools](https://img.shields.io/badge/api%20tools-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![ci/cd](https://img.shields.io/badge/ci/cd-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Azure Devops](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps) ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&style=for-the-badge&logoColor=white)
 
