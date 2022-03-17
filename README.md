@@ -65,7 +65,7 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
 
 
 
-<img src="https://img.shields.io/badge/communication-grey"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white"> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=Slack&style=for-the-badge"> <img src="https://img.shields.io/badge/-zoom-2D8CFF?logo=zoom&style=for-the-badge&logoColor=white">
+![communication](https://img.shields.io/badge/communication-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=Slack&style=for-the-badge) ![Zoom](https://img.shields.io/badge/-zoom-2D8CFF?logo=zoom&style=for-the-badge&logoColor=white)
 
 
 
