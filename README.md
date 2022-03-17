@@ -20,7 +20,11 @@
 <img src="https://img.shields.io/badge/Website-brightgreen?style=flat&logo=google-chrome&logoColor=darkgreen">
 </a>
 
-
+<br><br>
+<a href="https://about.me/mmoiyadi">
+<img src="https://img.shields.io/badge/about-me-00A98F?style=for-the-badge">
+</a>
+<br><br>
 #### Thanks for visiting this page. 
 
 I am an Application Architect and also an occassional tech blogger. I work at [Talentica Software](https://www.talentica.com/)
@@ -66,10 +70,6 @@ I am an Application Architect and also an occassional tech blogger. I work at [T
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoiyadi)](https://github.com/mmoiyadi/github-readme-stats)
 
  [![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
-
-<a href="https://about.me/mmoiyadi">
-<img src="https://img.shields.io/badge/about-me-00A98F">
-</a>
 
 
 
