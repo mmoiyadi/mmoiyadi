@@ -72,6 +72,10 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mmoiyadi&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoiyadi)](https://github.com/mmoiyadi/github-readme-stats)
 
 [![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
+![Profile View Counter](https://komarev.com/ghpvc/?username=mmoiyadi)
+
+##### Before you go, here is a geeky joke for you!!!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
