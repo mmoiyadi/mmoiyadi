@@ -53,9 +53,9 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
 
 <img src="https://img.shields.io/badge/api%20tools-grey"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/ci/cd-grey"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps"> <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity"> <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&style=for-the-badge&logoColor=white">
+![ci/cd](https://img.shields.io/badge/ci/cd-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Azure Devops](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps) ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&style=for-the-badge&logoColor=white)
 
-<img src="https://img.shields.io/badge/languages-grey"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&style=for-the-badge"> <img src="https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=for-the-badge"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black">
+![languages](https://img.shields.io/badge/languages-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&style=for-the-badge) ![C#](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
 
 ![project management](https://img.shields.io/badge/project%20management-grey)    ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira) ![CCPM](https://img.shields.io/badge/-CCPM-CB3837?logo=ccpm&style=for-the-badge)
 
