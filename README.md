@@ -71,7 +71,7 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoiyadi)](https://github.com/mmoiyadi/github-readme-stats)
 
- [![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
+[![HitCount](https://hits.dwyl.com/mmoiyadi/mmoiyadi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/mmoiyadi/mmoiyadi)
 
 
 
