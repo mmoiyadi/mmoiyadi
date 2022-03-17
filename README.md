@@ -49,7 +49,7 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
 
 <img src="https://img.shields.io/badge/scm-grey">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge"> <img src="https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree"> <img src="https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=for-the-badge&logoColor=white">
 
-<img src="https://img.shields.io/badge/package%20manager-grey">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge"> <img src="https://img.shields.io/badge/-nuget-004880?logo=nuget&style=for-the-badge">
+![package manager](https://img.shields.io/badge/package%20manager-grey)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge) ![nuget](https://img.shields.io/badge/-nuget-004880?logo=nuget&style=for-the-badge)
 
 ![api tools](https://img.shields.io/badge/api%20tools-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
