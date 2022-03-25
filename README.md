@@ -1,4 +1,4 @@
-## Hi there, I’m [Mohammed Moiyadi](https://mmoiyadi.github.io/react-project) 👋
+## Hi there, I’m [Mohammed Moiyadi](https://mmoiyadi.github.io) 👋
 
 <a href="https://www.linkedin.com/in/mmoiyadi/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin">
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white">
 </a>
 
-<a href="https://mmoiyadi.github.io/react-project">
+<a href="https://mmoiyadi.github.io">
 <img src="https://img.shields.io/badge/Website-brightgreen?style=flat&logo=google-chrome&logoColor=darkgreen">
 </a>
 
