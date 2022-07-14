@@ -55,13 +55,13 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
 
 ![ci/cd](https://img.shields.io/badge/ci/cd-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Azure Devops](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps) ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&style=for-the-badge&logoColor=white)
 
-![languages](https://img.shields.io/badge/languages-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&style=for-the-badge) ![C#](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
+![languages](https://img.shields.io/badge/languages-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&style=for-the-badge) ![C#](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&color=black&style=for-the-badge)
 
 ![project management](https://img.shields.io/badge/project%20management-grey)    ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira) ![CCPM](https://img.shields.io/badge/-CCPM-CB3837?logo=ccpm&style=for-the-badge)
 
 ![iot](https://img.shields.io/badge/iot-grey)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![Raspberry Pie](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi)
 
-![misc tools](https://img.shields.io/badge/misc%20tools-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion) ![Diagrams.Net](https://img.shields.io/badge/diagrams.net-F08705?logo=diagrams.net&style=for-the-badge&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&color=000000)
+![misc tools](https://img.shields.io/badge/misc%20tools-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion) ![Diagrams.Net](https://img.shields.io/badge/diagrams.net-F08705?logo=diagrams.net&style=for-the-badge&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&color=000000)  ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=OBS%20Studio&style=for-the-badge)
 
 
 
