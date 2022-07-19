@@ -36,6 +36,7 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
   - [Building SaaS products with data and runtime isolation](https://www.talentica.com/blogs/develop-saas-product-with-data-run-time-isolation/)
   - [Using using to dispose objects in .NET](https://medium.com/me/stats/post/c64bb62d7d8b)
   - [Setting up AWS ALB Application Load Balancer](https://dev.to/mmoiyadi/setting-up-aws-alb-application-load-balancer-for-a-web-application-api-1p92)
+  - [Software Development for IoT - The Cypress Way](https://www.talentica.com/blogs/development-tools-for-bluetooth-smart-applications-part-2/)
 - 📫 You can reach me at: [<img src="https://img.shields.io/badge/-mohammed.moiyadi@gmail.com-EA4335?logo=gmail&style=social">](mailto:mohammed.moiyadi@gmail.com)
 
 #### Tools and Tech Stacks I use
