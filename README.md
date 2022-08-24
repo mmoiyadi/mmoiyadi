@@ -20,6 +20,12 @@
 <img src="https://img.shields.io/badge/Website-brightgreen?style=flat&logo=google-chrome&logoColor=darkgreen">
 </a>
 
+
+<a href="https://mmoiyadi.github.io">
+<img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=flat&logo=Pluralsight&logoColor=black">
+</a>
+
+
 <br><br>
 <a href="https://about.me/mmoiyadi">
 <img src="https://img.shields.io/badge/about-me-00A98F?style=for-the-badge">
