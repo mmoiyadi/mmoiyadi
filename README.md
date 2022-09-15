@@ -21,7 +21,7 @@
 </a>
 
 
-<a href="https://mmoiyadi.github.io">
+<a href="https://app.pluralsight.com/profile/mmoiyadi">
 <img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=flat&logo=Pluralsight&logoColor=black">
 </a>
 
