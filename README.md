@@ -51,7 +51,7 @@ I am a <mark>Software Architect</mark> and also an occasional tech blogger. I wo
 #### Tools and Tech Stacks I use [^badge]
 
 | Category | Tools |
-| ----------- | ----------- |
+| :-----------: | :-----------: |
 | ![frameworks](https://img.shields.io/badge/frameworks%20&%20libraries-grey) | ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=RabbitMQ&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon%20AWS) |
 | ![databases](https://img.shields.io/badge/databases-grey) | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=Microsoft%20SQL%20Server) ![MySQL](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle) |
 | ![ide](https://img.shields.io/badge/ide-grey) | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual%20Studio) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code) |
@@ -63,8 +63,8 @@ I am a <mark>Software Architect</mark> and also an occasional tech blogger. I wo
 | ![languages](https://img.shields.io/badge/languages-grey) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus) ![C#](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&color=black) |
 | ![project management](https://img.shields.io/badge/project%20management-grey) | ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=Jira) ![CCPM](https://img.shields.io/badge/-CCPM-CB3837?logo=ccpm) |
 | ![iot](https://img.shields.io/badge/iot-grey) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)  ![Raspberry Pie](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi) |
-| ![misc tools](https://img.shields.io/badge/misc-grey) | ![Notion](https://img.shields.io/badge/-Notion-000000?logo=Notion) ![Diagrams.Net](https://img.shields.io/badge/diagrams.net-F08705?logo=diagrams.net&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=FFFFFF&color=000000)  ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=OBS%20Studio) |
-| ![communication](https://img.shields.io/badge/communication-grey) | ![Skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=Microsoft%20Teams&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=Slack) ![Zoom](https://img.shields.io/badge/-zoom-2D8CFF?logo=zoom&logoColor=white) |  
+| ![communication](https://img.shields.io/badge/communication-grey) | ![Skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=Microsoft%20Teams&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=Slack) ![Zoom](https://img.shields.io/badge/-zoom-2D8CFF?logo=zoom&logoColor=white) |
+| ![misc tools](https://img.shields.io/badge/miscellaneous-grey) | ![Notion](https://img.shields.io/badge/-Notion-000000?logo=Notion) ![Diagrams.Net](https://img.shields.io/badge/diagrams.net-F08705?logo=diagrams.net&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=FFFFFF&color=000000)  ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=OBS%20Studio) |
 
 
 
