@@ -1,4 +1,5 @@
-## Hi there, I’m [Mohammed Moiyadi](https://mmoiyadi.github.io) 👋
+`hello world!`
+## I’m [Mohammed Moiyadi](https://mmoiyadi.github.io) 👋
 
 <a href="https://www.linkedin.com/in/mmoiyadi/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin">
@@ -25,7 +26,7 @@
 <img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=flat&logo=Pluralsight&logoColor=black">
 </a>
 
-
+---
 <br><br>
 <a href="https://about.me/mmoiyadi">
 <img src="https://img.shields.io/badge/about-me-00A98F?style=for-the-badge">
@@ -45,34 +46,25 @@ I am an Application Architect and also an occasional tech blogger. I work at [Ta
   - [Software Development for IoT - The Cypress Way](https://www.talentica.com/blogs/development-tools-for-bluetooth-smart-applications-part-2/)
 - 📫 You can reach me at: [<img src="https://img.shields.io/badge/-mohammed.moiyadi@gmail.com-EA4335?logo=gmail&style=social">](mailto:mohammed.moiyadi@gmail.com)
 
+---
+
 #### Tools and Tech Stacks I use
-![frameworks](https://img.shields.io/badge/frameworks%20&%20libraries-grey)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&style=for-the-badge) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS)
 
-![databases](https://img.shields.io/badge/databases-grey)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=Microsoft%20SQL%20Server&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&style=for-the-badge&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-
-![ide](https://img.shields.io/badge/ide-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual%20Studio&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
-
-![containerization](https://img.shields.io/badge/containerization-grey)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Docker](https://img.shields.io/badge/-docker-2496ED?logo=docker&style=for-the-badge&logoColor=white)
-
-![scm](https://img.shields.io/badge/scm-grey)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge) ![SourceTree](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree) ![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=for-the-badge&logoColor=white)
-
-![package manager](https://img.shields.io/badge/package%20manager-grey)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge) ![nuget](https://img.shields.io/badge/-nuget-004880?logo=nuget&style=for-the-badge)
-
-![api tools](https://img.shields.io/badge/api%20tools-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![ci/cd](https://img.shields.io/badge/ci/cd-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Azure Devops](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps) ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&style=for-the-badge&logoColor=white)
-
-![languages](https://img.shields.io/badge/languages-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&style=for-the-badge) ![C#](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&color=black&style=for-the-badge)
-
-![project management](https://img.shields.io/badge/project%20management-grey)    ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira) ![CCPM](https://img.shields.io/badge/-CCPM-CB3837?logo=ccpm&style=for-the-badge)
-
-![iot](https://img.shields.io/badge/iot-grey)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![Raspberry Pie](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi)
-
-![misc tools](https://img.shields.io/badge/misc%20tools-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion) ![Diagrams.Net](https://img.shields.io/badge/diagrams.net-F08705?logo=diagrams.net&style=for-the-badge&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&color=000000)  ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=OBS%20Studio&style=for-the-badge)
-
-
-
-![communication](https://img.shields.io/badge/communication-grey) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=Slack&style=for-the-badge) ![Zoom](https://img.shields.io/badge/-zoom-2D8CFF?logo=zoom&style=for-the-badge&logoColor=white)
+| Category | Tools |
+| ----------- | ----------- |
+| ![frameworks](https://img.shields.io/badge/frameworks%20&%20libraries-grey) | ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?logo=dotnet&style=for-the-badge) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&style=for-the-badge&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white) ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS) |
+| ![databases](https://img.shields.io/badge/databases-grey) | ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=Microsoft%20SQL%20Server&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-mysql-4479A1?logo=mysql&style=for-the-badge&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle) |
+| ![ide](https://img.shields.io/badge/ide-grey) | ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=Visual%20Studio&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code) |
+| ![containerization](https://img.shields.io/badge/containerization-grey) | ![Docker](https://img.shields.io/badge/-docker-2496ED?logo=docker&style=for-the-badge&logoColor=white) |
+| ![scm](https://img.shields.io/badge/scm-grey) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge) ![SourceTree](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree) ![Subversion](https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=for-the-badge&logoColor=white) |
+| ![package manager](https://img.shields.io/badge/package%20manager-grey) | ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&style=for-the-badge) ![nuget](https://img.shields.io/badge/-nuget-004880?logo=nuget&style=for-the-badge) |
+| ![api tools](https://img.shields.io/badge/api%20tools-grey) | ![swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![ci/cd](https://img.shields.io/badge/ci/cd-grey) | ![Azure Devops](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=Azure%20DevOps) ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&style=for-the-badge&logoColor=white) |
+| ![languages](https://img.shields.io/badge/languages-grey) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&style=for-the-badge) ![C#](https://img.shields.io/badge/-C%20Sharp-239120?logo=C%20Sharp&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&color=black&style=for-the-badge) |
+| ![project management](https://img.shields.io/badge/project%20management-grey) | ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira) ![CCPM](https://img.shields.io/badge/-CCPM-CB3837?logo=ccpm&style=for-the-badge) |
+| ![iot](https://img.shields.io/badge/iot-grey) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  ![Raspberry Pie](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi) |
+| ![misc tools](https://img.shields.io/badge/misc%20tools-grey) | ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion) ![Diagrams.Net](https://img.shields.io/badge/diagrams.net-F08705?logo=diagrams.net&style=for-the-badge&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=FFFFFF&color=000000)  ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=OBS%20Studio&style=for-the-badge) |
+| ![communication](https://img.shields.io/badge/communication-grey) | ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=Slack&style=for-the-badge) ![Zoom](https://img.shields.io/badge/-zoom-2D8CFF?logo=zoom&style=for-the-badge&logoColor=white) |  
 
 
 
