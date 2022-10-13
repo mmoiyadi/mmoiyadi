@@ -48,7 +48,7 @@ I am a <mark>Software Architect</mark> and also an occasional tech blogger. I wo
 
 ---
 
-#### Tools and Tech Stacks I use
+#### Tools and Tech Stacks I use [^badge]
 
 | Category | Tools |
 | ----------- | ----------- |
@@ -77,7 +77,7 @@ I am a <mark>Software Architect</mark> and also an occasional tech blogger. I wo
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-
+[^badge]: Badges created using [shields.io](https://shields.io)
 
 
 
