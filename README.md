@@ -66,12 +66,14 @@ I am a <mark>Software Architect</mark> and also an occasional tech blogger. I wo
 | ![communication](https://img.shields.io/badge/communication-white) | ![Skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=Microsoft%20Teams&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=Slack) ![Zoom](https://img.shields.io/badge/-zoom-2D8CFF?logo=zoom&logoColor=white) |
 | ![misc tools](https://img.shields.io/badge/miscellaneous-white) | ![Notion](https://img.shields.io/badge/-Notion-000000?logo=Notion) ![Diagrams.Net](https://img.shields.io/badge/diagrams.net-F08705?logo=diagrams.net&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=FFFFFF&color=000000)  ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=OBS%20Studio) |
 
-
+---
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mmoiyadi&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmoiyadi)](https://github.com/mmoiyadi/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mmoiyadi.mmoiyadi)
+
+---
 
 ##### Before you go, here is a geeky joke for you!!!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
