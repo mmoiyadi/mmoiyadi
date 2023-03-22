@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin">
 </a>
 
-<a href="https://medium.com/@mohammed-moiyadi">
+<a href="https://medium.com/@mmoiyadi">
 <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium">
 </a>
 
