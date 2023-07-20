@@ -38,7 +38,7 @@ I am a <mark>Software Architect</mark> and also an occasional tech blogger. I wo
 - 👀 I’m interested in [.NET Core](https://github.com/dotnet/core), C++, [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html), Enterprise Architecture
 - 🌱 I’m currently learning [React](https://github.com/facebook/react), [Docker](https://www.docker.com/) and [Domain Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html). I also like to explore different programming languages on [Exercism](https://exercism.org/)
 - 📝 Here are a few of my blogs
-  - Dockerize .NET Applications: [Part 1](https://www.talentica.com/blogs/dockerize-net-applications-part1/), [Part 2](https://www.talentica.com/blogs/dockerize-net-applications-part2/), [Part 3](https://www.talentica.com/blogs/dockerize-net-applications-part3/)
+  - Dockerize .NET Applications: [Part 1](https://www.talentica.com/blogs/dockerize-net-applications-part1/), [Part 2](https://www.talentica.com/blogs/how-to-dockerize-net-applications-part-2/), [Part 3](https://www.talentica.com/blogs/how-to-dockerize-net-applications-part-3/)
   - Options pattern in .NET Core: [Part 1](https://www.talentica.com/blogs/typed-configurations-in-net-core/) and [Part 2](https://www.talentica.com/blogs/change-notifications-and-named-options-using-options-pattern-in-net-core/)
   - [Building SaaS products with data and runtime isolation](https://www.talentica.com/blogs/develop-saas-product-with-data-run-time-isolation/)
   - [Using using to dispose objects in .NET](https://medium.com/me/stats/post/c64bb62d7d8b)
