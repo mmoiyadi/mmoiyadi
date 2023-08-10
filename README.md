@@ -48,6 +48,13 @@ I am a <mark>Software Architect</mark> and also an occasional tech blogger. I wo
 
 ---
 
+### Some cool stuff I have built
+- [Tribute Page](https://codepen.io/mmoiyadi/full/GYbBwQ)
+- [Survey Form](https://codepen.io/mmoiyadi/full/aQoKLq)
+- [Random Quote Machine](https://codepen.io/mmoiyadi/full/PoxgmEo)
+- [Markdown Previwer](https://codepen.io/mmoiyadi/full/poQBYPa)
+- [Drum Machine](https://codepen.io/mmoiyadi/full/bGQyqEv)
+
 #### Tools and Tech Stacks I use [^badge]
 
 | Category | Tools |
