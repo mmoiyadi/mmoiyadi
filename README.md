@@ -52,8 +52,10 @@ I am a <mark>Software Architect</mark> and also an occasional tech blogger. I wo
 - [Tribute Page](https://codepen.io/mmoiyadi/full/GYbBwQ)
 - [Survey Form](https://codepen.io/mmoiyadi/full/aQoKLq)
 - [Random Quote Machine](https://codepen.io/mmoiyadi/full/PoxgmEo)
-- [Markdown Previwer](https://codepen.io/mmoiyadi/full/poQBYPa)
+- [Markdown Previewer](https://codepen.io/mmoiyadi/full/poQBYPa)
 - [Drum Machine](https://codepen.io/mmoiyadi/full/bGQyqEv)
+- [Calculator](https://codepen.io/mmoiyadi/full/vYQoJgN)
+- [25+5 Clock](https://codepen.io/mmoiyadi/full/JjeQjKm)
 
 #### Tools and Tech Stacks I use [^badge]
 
